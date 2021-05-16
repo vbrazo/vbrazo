@@ -1,4 +1,4 @@
-### Hey folks! 👋
+### Hey folks! 👋 🇧🇷
 
 My name is Vitor. I've been using GitHub to host my repos and contribute to the open source community for many years. I'm a hands-on Software Engineering Leader with more than a decade of experience.
 
