@@ -8,6 +8,4 @@ I also mentor junior developers and have invested a good amount of time helping 
 
 In my GitHub professional profile, you'll find many open source projects that I contribute to as well as my studying side projects where I work hard to become a better technologist.
 
-<a href="https://github.com/vbrazo/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=vbrazo">
-</a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vbrazo) [![Linkedin Badge](https://img.shields.io/badge/vitor.oliveira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vbrazo)](https://www.linkedin.com/in/vbrazo) 
