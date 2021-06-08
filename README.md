@@ -1,6 +1,6 @@
 ### Hey folks! 👋 🇧🇷
 
-My name is Vitor. I've been using GitHub to host my repos and contribute to the open source community for many years. I'm a hands-on Software Engineering Leader with more than a decade of experience.
+My name is Vitor. I've been using GitHub to host my repos and contribute to the open source community for many years.
 
 I'm a hacker at heart who has a purpose to make better tools and technologies for humanity in this life. I've been focused on backend, frontend, iOS and Android development. I'm passionate about people, startups, computers and many other things.
 
