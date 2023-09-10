@@ -1,4 +1,4 @@
-### Hey folks! 👋 🇧🇷
+### Hey folks! 👋 🇧🇷 🇨🇦
 
 👋 Hey there, I'm Vitor, a passionate technologist with a mission to craft tools and technologies that enhance the human experience. I've been a part of the GitHub community for years, hosting repositories and actively contributing to open source projects.
 
