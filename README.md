@@ -8,4 +8,4 @@
 
 🚀 On my GitHub profile, you'll discover a trove of open source contributions and personal projects that reflect my continuous pursuit of becoming a more adept technologist.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vbrazo) [![Linkedin Badge](https://img.shields.io/badge/vitor.oliveira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vbrazo)](https://www.linkedin.com/in/vbrazo) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vbrazo)
