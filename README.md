@@ -1,11 +1,11 @@
 ### Hey folks! 👋 🇧🇷 🇨🇦
 
-👋 Hey there, I'm Vitor, a passionate technologist with a mission to craft tools and technologies that enhance the human experience. I've been a part of the GitHub community for years, hosting repositories and actively contributing to open source projects.
+👋 Hey, I’m Vitor, a technology leader, builder, and problem solver passionate about AI automation, DevTools, and no-code platforms. I’ve spent years scaling engineering teams, developing products, and driving technical strategy, and now I’m focused on building high-impact tools that streamline workflows and enhance productivity.
 
-💡 My expertise spans backend, frontend, iOS, and Android development, reflecting my dedication to creating seamless, user-centric experiences. I thrive on challenges and find joy in exploring the intricate world of code.
+💡 My expertise spans backend, frontend, mobile (iOS & Android), and AI-driven automation, but beyond the tech, I love tackling big challenges and finding practical, scalable solutions. I’m currently working on an AI agent prototype that helps talent professionals source top candidates on autopilot—leveraging automation to make hiring smarter and more efficient.
 
-🌱 Beyond coding, I find fulfillment in mentoring and coaching software engineers, guiding them to expand their skill set across various technologies. It's a privilege to pay forward the knowledge I've gained over the years. Witnessing others excel in the development realm is incredibly rewarding!
+🌱 Mentoring and coaching engineers and tech leaders has always been a huge part of my journey. I’ve hired, onboarded, and managed teams of all sizes, and I love helping others grow their skills, navigate career challenges, and build amazing things.
 
-🚀 On my GitHub profile, you'll discover a trove of open source contributions and personal projects that reflect my continuous pursuit of becoming a more adept technologist.
+🚀 My GitHub is a mix of open-source contributions, personal projects, and experiments—a reflection of my constant drive to learn, build, and push the boundaries of what’s possible with technology. Let’s connect and create something awesome!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vbrazo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vbrazo) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-vbrazo-blue)](https://www.linkedin.com/in/imvitoroliveira)
