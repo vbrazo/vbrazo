@@ -2,7 +2,7 @@
 
 👋 Hey, I’m Vitor, a technology leader, builder, and problem solver passionate about AI automation, DevTools, and no-code platforms. I’ve spent years scaling engineering teams, developing products, and driving technical strategy, and now I’m focused on building high-impact tools that streamline workflows and enhance productivity.
 
-💡 My expertise spans backend, frontend, mobile (iOS & Android), and AI-driven automation, but beyond the tech, I love tackling big challenges and finding practical, scalable solutions. I’m currently working on Contextor.app, an AI coach on WhatsApp that allows you to practice interviews, boost your English, and get real feedback all on your time. No apps, no scheduling. Just smart, thoughtful nudges to help you grow one message at a time.
+💡 My expertise spans backend, frontend, mobile (iOS & Android), and AI-driven automation, but beyond the tech, I love tackling big challenges and finding practical, scalable solutions.
 
 🌱 Mentoring and coaching engineers and tech leaders has always been a huge part of my journey. I’ve hired, onboarded, and managed teams of all sizes, and I love helping others grow their skills, navigate career challenges, and build amazing things.
 
