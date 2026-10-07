@@ -1,6 +1,6 @@
 ### Hey folks! 👋 🇧🇷 🇨🇦
 
-👋 Hey, I’m Vitor, a serial entrepreneur, production engineer, technology leader, builder, and problem solver passionate about Startups, Technology, Product, Data, Software Engineering, Artificial Intelligence, and Cloud Computing.
+👋 Hey, I’m Vitor, a serial entrepreneur, production & industrial engineer, technology leader, builder, and problem solver passionate about Startups, Technology, Product, Data, Software Engineering, Artificial Intelligence, and Cloud Computing.
 
 💡 My expertise spans backend, frontend, mobile (iOS, Android, hybrid), AI-driven automations, and no-code platforms.
 
